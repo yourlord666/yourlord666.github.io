@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Boris's Homepage"
+locale                   : "e"
+title                    : "Bskskd"
 title_separator          : "-"
 name                     : &name "Boris Meinardus"
 description              : &description "personal description"
